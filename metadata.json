@@ -1,0 +1,5 @@
+{
+  "name": "1st Food DZ Restaurant",
+  "description": "A modern web application for an Algerian fast-food restaurant. It features dynamic menu management, an interactive ordering system, and a comprehensive admin dashboard. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
